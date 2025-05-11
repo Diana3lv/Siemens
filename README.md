@@ -1,5 +1,5 @@
-Database in use: sqlite
-Routes for Books:
+Database in use: sqlite ###
+Routes for Books ### Run with dotnet run
 
 # GET -> get all
 localhost:5000/api/books
